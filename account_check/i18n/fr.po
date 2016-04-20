@@ -20,32 +20,32 @@ msgstr ""
 #. module: account_check
 #: selection:account.check,clearing:0
 msgid "24 hs"
-msgstr ""
+msgstr "24 heures"
 
 #. module: account_check
 #: selection:account.check,clearing:0
 msgid "48 hs"
-msgstr ""
+msgstr "48 heures"
 
 #. module: account_check
 #: selection:account.check,clearing:0
 msgid "72 hs"
-msgstr ""
+msgstr "72 heures"
 
 #. module: account_check
 #: field:account.check.action,account_id:0
 msgid "Account"
-msgstr ""
+msgstr "Compte"
 
 #. module: account_check
 #: model:ir.model,name:account_check.model_account_check
 msgid "Account Check"
-msgstr ""
+msgstr "Compte chèque"
 
 #. module: account_check
 #: model:ir.model,name:account_check.model_account_checkbook
 msgid "Account Checkbook"
-msgstr ""
+msgstr "Chéquier"
 
 #. module: account_check
 #: model:ir.model,name:account_check.model_account_voucher
@@ -55,24 +55,24 @@ msgstr ""
 #. module: account_check
 #: field:account.check.action,action_type:0
 msgid "Action type passed on the context"
-msgstr ""
+msgstr "Type d'action basée sur le contexte"
 
 #. module: account_check
 #: code:addons/account_check/wizard/check_action.py:19
 #: code:addons/account_check/wizard/check_reject.py:19
 #, python-format
 msgid "All checks must be from the same company!"
-msgstr ""
+msgstr "Tous les chèques doivent être de la même société"
 
 #. module: account_check
 #: field:account.check,amount:0
 msgid "Amount"
-msgstr ""
+msgstr "Montant"
 
 #. module: account_check
 #: field:account.change.check,bank_id:0 field:account.check,bank_id:0
 msgid "Bank"
-msgstr ""
+msgstr "Banque"
 
 #. module: account_check
 #: view:account.change.check:account_check.account_change_check_form_view
@@ -83,70 +83,70 @@ msgstr "Annuler"
 #. module: account_check
 #: view:account.check:account_check.view_account_check_form
 msgid "Cancel Debit"
-msgstr ""
+msgstr "Annuler l'encaissement"
 
 #. module: account_check
 #: view:account.check:account_check.view_account_check_form
 msgid "Cancel Deposit"
-msgstr ""
+msgstr "Annuler le dépot"
 
 #. module: account_check
 #: view:account.check:account_check.view_account_check_form
 msgid "Cancel Rejection"
-msgstr ""
+msgstr "Annuler le rejet"
 
 #. module: account_check
 #: view:account.check:account_check.view_account_check_form
 msgid "Cancel Return"
-msgstr ""
+msgstr "Annuler le retour"
 
 #. module: account_check
 #: view:account.check:account_check.view_account_check_form
 msgid "Change"
-msgstr ""
+msgstr "Changer"
 
 #. module: account_check
 #: view:account.change.check:account_check.account_change_check_form_view
 #: model:ir.actions.act_window,name:account_check.action_account_change_check
 msgid "Change Check"
-msgstr ""
+msgstr "Changer le chèque"
 
 #. module: account_check
 #: selection:account.check,state:0
 msgid "Changed"
-msgstr ""
+msgstr "Changé"
 
 #. module: account_check
 #: model:ir.actions.act_window,name:account_check.action_check_debit
 msgid "Check Debit"
-msgstr ""
+msgstr "Encaisser le chèque"
 
 #. module: account_check
 #: model:ir.actions.act_window,name:account_check.action_check_deposit
 msgid "Check Deposit"
-msgstr ""
+msgstr "Déposer le chèque"
 
 #. module: account_check
 #: constraint:account.check:0
 msgid "Check Number must be unique per Checkbook!"
-msgstr ""
+msgstr "Le N° du chèque doit être unique par chèquier!"
 
 #. module: account_check
 #: constraint:account.check:0
 msgid "Check Number must be unique per Owner and Bank!"
-msgstr ""
+msgstr "Le N° du chèque doit être unique par propriétaire et banque!"
 
 #. module: account_check
 #: model:ir.actions.act_window,name:account_check.action_check_rejected
 msgid "Check Rejected"
-msgstr ""
+msgstr "Chèque rejeté"
 
 #. module: account_check
 #: code:addons/account_check/wizard/check_reject.py:125
 #: code:addons/account_check/wizard/check_reject.py:170
 #, python-format
 msgid "Check Rejected N: "
-msgstr ""
+msgstr "Chèque rejeté N°"
 
 #. module: account_check
 #: model:ir.actions.act_window,name:account_check.action_check_return
@@ -161,7 +161,7 @@ msgstr ""
 #. module: account_check
 #: field:account.check.dreject,type:0
 msgid "Check Type"
-msgstr ""
+msgstr "Type de chèque"
 
 #. module: account_check
 #: field:account.change.check,checkbook_id:0
